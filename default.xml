@@ -34,8 +34,8 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
-  <project path="device/zte/skate" name="ColdFusionX/android_device_zte_skate" revision="jb" />
-  <project path="device/zte/msm7x27-common" name="ColdFusionX/android_device_zte_msm7x27-common" revision="jb" />
+  <project path="device/zte/skate" name="ColdFusionX/android_device_zte_skate" revision="jellybean" />
+  <project path="device/zte/msm7x27-common" name="ColdFusionX/android_device_zte_msm7x27-common" revision="jellybean" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="external/aac" name="platform/external/aac" remote="aosp" revision="refs/tags/android-4.1.1_r1_" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
