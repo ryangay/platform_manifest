@@ -11,6 +11,9 @@
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
            review="review.cyanogenmod.com" />
+           
+  <remote name="cfx"
+          fetch="https://github.com/ColdFusionX/" />
 
   <default remote="aosp"
            sync-j="4" />
