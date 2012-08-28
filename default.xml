@@ -15,13 +15,13 @@
   <remote name="cfx"
           fetch="https://github.com/ColdFusionX/" />
           
-  <remote name="me"        
-          fetch="https://github.com/ryangay/" />
+  <remote name="razz"        
+          fetch="https://github.com/" />
 
   <default remote="aosp"
            sync-j="4" />
 
-  <project path="build" name="android_build" remote="me" revision="jb" />
+  <project path="build" name="ryangay/android_build" remote="razz" revision="jb" />
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
